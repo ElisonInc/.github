@@ -1,25 +1,31 @@
 # ELISON INC
 
-**Creative and technology company building platforms, tools, and experiences across music, media, and AI.**
+**Independent technology and creative products, built and owned end to end.**
 
-ELISON INC is the parent company of a portfolio of products at the intersection of software, AI, and creative work — founded and led by [Elison Morban](https://github.com/emorban).
+ELISON INC is a creative technology company founded by [Elison Morban](https://github.com/emorban). Its work spans AI automation, original serialized entertainment, artist-owned media, and software products.
 
-## What we build
+## Current focus
 
-| Product | What it is | Status |
+| Product | Purpose | Status |
 | --- | --- | --- |
-| **[DevHouse AI](https://devhouseai.com)** | AI automation platform for service businesses — voice AI, lead orchestration, CRM workflows, and booking. | Live |
-| **[SongSplit](https://songsplit.org)** | Real-time collaborative split sheet agreements for music creators. | Live (beta) |
-| **[OneTime Studios](https://github.com/ElisonInc/onetime-studios)** | Marketplace for booking professional recording studios instantly. Built by artists, for artists. | Prototype |
-| **The Book of Eli** | Artist archive and immersive web experience for *The Book of Eli / After Dark*. | In progress |
+| **[ShortHouse](https://shorthouse.app)** | Mobile-first platform for vertical, serialized dramas, beginning with original programming including *B2*. | Platform deployed; commercial launch in preparation |
+| **[DevHouse AI](https://devhouseai.com)** | AI receptionist, lead capture, scheduling, and automation for service businesses. | Live website and active product development |
+| **[The Book of Eli](https://thebookofeli.world)** | Independent artist project and direct-to-fan presence spanning music and visual storytelling. | Active creative work |
 
-We also build internal agentic AI systems that power how the company operates — some of that architecture is shared publicly in [eclipse-ai](https://github.com/emorban/eclipse-ai).
+## Other products and experiments
 
-## How we work
+- **[SongSplit](https://songsplit.org)** — music rights and split-sheet workflow; beta.
+- **[OneTime Studios](https://github.com/ElisonInc/onetime-studios)** — recording-studio booking marketplace prototype; currently paused.
+- **[Eclipse AI](https://github.com/emorban/eclipse-ai)** — public, sanitized architectural work on agentic systems; proprietary operating and production systems remain private.
 
-Products here are designed around real workflows: the customer, the operator, the failure modes, and the business outcome come before the implementation. We build with AI coding agents as collaborators and verify everything end to end before calling it done.
+## Engineering principles
+
+**Own the IP. Make production state explicit. Test the real workflow.**
+
+We use AI coding tools alongside human direction, review, and acceptance testing. Public portfolio repos are not necessarily production code. A deployed website, prototype, review candidate, and released product are different milestones; documentation should say which is which.
 
 ## Connect
 
-- **Website:** [elisoninc.com](https://elisoninc.com)
-- **Founder:** [@emorban](https://github.com/emorban) · [LinkedIn](https://www.linkedin.com/in/elisonjmorban)
+- **Company:** [elisoninc.com](https://elisoninc.com)
+- **Founder:** [@emorban](https://github.com/emorban)
+- **LinkedIn:** [Elison Morban](https://www.linkedin.com/in/elisonjmorban)
